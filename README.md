@@ -54,9 +54,8 @@ The admin panel allows administrators to:
 
 ## Tech Stack
 
-* **Frontend:** React / Next.js
-* **Backend:** Node.js / Express
-* **Database:** MongoDB
+* **freamwork:** laravel
+* **Database:** Mysql
 * **Authentication:** JWT
 * **Version Control:** Git
 
